@@ -1,0 +1,15 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "to get weather for particular place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Debayan Sen",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0",
+    "yargs": "^10.0.3"
+  }
+}

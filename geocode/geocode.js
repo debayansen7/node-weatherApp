@@ -1,5 +1,6 @@
 const request = require('request');
 
+// Using Promises
 var geocodeaddress = (address) => {
   return new Promise((resolve, reject) => {
     var encodeAddress = encodeURIComponent(address);

@@ -9,6 +9,7 @@
   "author": "Debayan Sen",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.17.1",
     "request": "^2.83.0",
     "yargs": "^10.0.3"
   }
